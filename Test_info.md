@@ -1,0 +1,11 @@
+# Практика по ручному тестированию сайта.
+Тестирование раздела "Вкусное меню на сегодня". Чек-листы. TestRun на Quase.io
+
+
+- Ссылка на тестируемый ресурс - https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html?_ga=2.10137661.901338921.1681388441-564606220.1661775989
+
+- Ссылка на документацию тестируемого ресурса - https://docs.google.com/document/d/1MwJzjEQhCn5bOh9_aqN7dPjcEEao5SHAS14gNcjYvVo/edit
+
+- Ссылка на Test Run по тестируемому ресурсу - https://app.qase.io/public/report/f8c6b88ec181e5c6b92aaa9026181ff0bca71c1b
+
+- Ссылка на json data файл (Quase.io) со списком чек-листов - https://cloud.mail.ru/public/Kged/x8taNMUd4
