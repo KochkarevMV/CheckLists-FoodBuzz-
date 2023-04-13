@@ -9,3 +9,5 @@
 - Ссылка на Test Run по тестируемому ресурсу - https://app.qase.io/public/report/f8c6b88ec181e5c6b92aaa9026181ff0bca71c1b
 
 - Ссылка на json data файл (Quase.io) со списком чек-листов - https://cloud.mail.ru/public/Kged/x8taNMUd4
+
+- Ссылка на google таблицу с чек-листами (альтернаятива Quase.io) - https://docs.google.com/spreadsheets/d/1q4XU7FuVVqw0ZHshOp_5bfkxFdVKjFL1/edit?usp=sharing&ouid=117023111255460866159&rtpof=true&sd=true
