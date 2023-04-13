@@ -10,4 +10,4 @@
 
 - Ссылка на json data файл (Quase.io) со списком чек-листов - https://cloud.mail.ru/public/Kged/x8taNMUd4
 
-- Ссылка на google таблицу с чек-листами (альтернаятива Quase.io) - https://docs.google.com/spreadsheets/d/1q4XU7FuVVqw0ZHshOp_5bfkxFdVKjFL1/edit?usp=sharing&ouid=117023111255460866159&rtpof=true&sd=true
+- Ссылка на google таблицу с чек-листами (альтернатива Quase.io) - https://docs.google.com/spreadsheets/d/1q4XU7FuVVqw0ZHshOp_5bfkxFdVKjFL1/edit?usp=sharing&ouid=117023111255460866159&rtpof=true&sd=true
