@@ -4,7 +4,7 @@
 
 - Ссылка на тестируемый ресурс - https://clck.ru/36EHus
 
-- Ссылка на документацию тестируемого ресурса - https://docs.google.com/document/d/1MwJzjEQhCn5bOh9_aqN7dPjcEEao5SHAS14gNcjYvVo/edit
+- Ссылка на документацию тестируемого ресурса - https://clck.ru/36EJ25
 
 - Ссылка на Test Run по тестируемому ресурсу - https://clck.ru/36EJ25
 
